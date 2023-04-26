@@ -1,0 +1,37 @@
+.past{
+
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.cak{
+
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.ved{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin: auto;
+}
+
+.wed{
+    width: 400px;
+    height: 300px;
+}
+.img{
+
+    width: 300px;
+    height: 200px;
+}
